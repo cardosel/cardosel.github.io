@@ -1,11 +1,11 @@
-## List of Projects
+## List of Projects by Selena Cardona
 
 __Python__
 * YouTube Comment Scraper Tool | source code: [github](https://github.com/selenacardona113/CampaignSentiments)
 
 __Javascript__
 * Chrome Extension Tutorial (..don't use this pls) | source code: [github](https://github.com/selenacardona113/trip-extension)
-* Google Maps Retail Competitor Tracker | source code: [github](https://github.com/selenacardona113/GoogleMapApplication) || [demo](http://cssdeck.com/labs/full/s66db8vx)
+* Google Maps Retail Competitor Tracker | source code: [github](https://github.com/selenacardona113/GoogleMapApplication) | [demo](http://cssdeck.com/labs/full/s66db8vx)
 
 
 __Old Java Projects__
